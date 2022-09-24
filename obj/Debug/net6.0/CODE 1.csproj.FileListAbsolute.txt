@@ -1,0 +1,15 @@
+E:\E\CODE\CSHARP\CODE 1\bin\Debug\net6.0\CODE 1.exe
+E:\E\CODE\CSHARP\CODE 1\bin\Debug\net6.0\CODE 1.deps.json
+E:\E\CODE\CSHARP\CODE 1\bin\Debug\net6.0\CODE 1.runtimeconfig.json
+E:\E\CODE\CSHARP\CODE 1\bin\Debug\net6.0\CODE 1.dll
+E:\E\CODE\CSHARP\CODE 1\bin\Debug\net6.0\CODE 1.pdb
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\CODE 1.csproj.AssemblyReference.cache
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\CODE 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\CODE 1.AssemblyInfoInputs.cache
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\CODE 1.AssemblyInfo.cs
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\CODE 1.csproj.CoreCompileInputs.cache
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\CODE 1.dll
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\refint\CODE 1.dll
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\CODE 1.pdb
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\CODE 1.genruntimeconfig.cache
+E:\E\CODE\CSHARP\CODE 1\obj\Debug\net6.0\ref\CODE 1.dll
